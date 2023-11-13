@@ -64,7 +64,7 @@ Test
   #  the deployment target. You can optionally include the target after the platform.
   #
 
-  # spec.platform     = :ios, "10.0"
+  spec.platform     = :ios, "10.0"
   # spec.platform     = :ios, "5.0"
 
   #  When using multiple platforms
@@ -91,7 +91,7 @@ Test
   #
 
   # spec.source_files  = "Classes", "Classes/**/*.{h,m}"
-  spec.vendored_framework = "TouchadSDK.xcframework/ios-arm64/TouchadSDK.framework"
+  spec.vendored_frameworks = "TouchadSDK.xcframework/ios-arm64/TouchadSDK.framework"
   spec.pod_target_xcconfig = { 'EXCLUDED_ARCHS[sdk=iphonesimulator*]' => 'arm64' }
   spec.user_target_xcconfig = { 'EXCLUDED_ARCHS[sdk=iphonesimulator*]' => 'arm64' }
   spec.exclude_files = "Classes/Exclude"
