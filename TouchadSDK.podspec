@@ -16,7 +16,7 @@ Pod::Spec.new do |spec|
   #
 
   spec.name         = "TouchadSDK"
-  spec.version      = "1.0"
+  spec.version      = "1.1"
   spec.summary      = "A short description of TouchadSDK."
 
   # This description is used to generate tags and improve search results.
@@ -91,7 +91,7 @@ Test
   #
 
   # spec.source_files  = "Classes", "Classes/**/*.{h,m}"
-  spec.vendored_frameworks = "TouchadSDK.xcframework/ios-arm64/TouchadSDK.framework"
+  spec.vendored_framework = "TouchadSDK.xcframework"
   spec.pod_target_xcconfig = { 'EXCLUDED_ARCHS[sdk=iphonesimulator*]' => 'arm64' }
   spec.user_target_xcconfig = { 'EXCLUDED_ARCHS[sdk=iphonesimulator*]' => 'arm64' }
   spec.exclude_files = "Classes/Exclude"
