@@ -6,67 +6,67 @@
 	<dict>
 		<key>Assets.car</key>
 		<data>
-		ey1v/3SIC4akWRqQ2MOGywL6JnY=
+		ryr+5j/yOvJdvve3FoR8P7MB2mo=
 		</data>
 		<key>BottomAppPushPopupView.nib/objects-11.0+.nib</key>
 		<data>
-		1QomtIUHDUQcbqFpKLjB/csd4dg=
+		v4/7MnjNXrfP5I/hMrceqwDvqZY=
 		</data>
 		<key>BottomAppPushPopupView.nib/runtime.nib</key>
 		<data>
-		sQR1NDGGisBIcsjXPl8baIy4Xuc=
+		NnWRePJMc1XNF8FqGldmgLF7tcs=
 		</data>
 		<key>BottomPopupView.nib/objects-11.0+.nib</key>
 		<data>
-		G7X5nnlTP7rGZwZDHJqBLAudv3c=
+		bCWUSlvE/0a/WgaA31hVbphWMMg=
 		</data>
 		<key>BottomPopupView.nib/runtime.nib</key>
 		<data>
-		Ff7KnrgiDusGc1/NVb9E+t0D0nQ=
+		DKgU5H/e46+8ARlssfbYZu5qtMc=
 		</data>
 		<key>CardRegistViewController.nib</key>
 		<data>
-		+VEmCdZdFWkRXQ4BvVKIUwfEGLU=
+		dA8iGS0BMq/nJcbfqMT+6PFSPes=
 		</data>
 		<key>CommonPickerPopupView.nib/objects-11.0+.nib</key>
 		<data>
-		Papq2kC1QGiBbhPEFSO2OOFdnCg=
+		F30k/5btNFCXT0OEQ3XKj7Nt+R4=
 		</data>
 		<key>CommonPickerPopupView.nib/runtime.nib</key>
 		<data>
-		wIuFtNGoWRPinV4bxvtv8KGLYm8=
+		wGdhQm4M3ohVOLvQ0DYJz5ouE0E=
 		</data>
 		<key>CommonPopupView.nib/objects-11.0+.nib</key>
 		<data>
-		/OKdjMW0yMWnPizr6wv1fR8OeG4=
+		W2NK6e/YdKdWOzdF0ODtjIsGcvs=
 		</data>
 		<key>CommonPopupView.nib/runtime.nib</key>
 		<data>
-		suQCGx7mKEx2aF6c3RLkTGPCtMM=
+		7T9RVSdHD3a99Fl9b0ebfqft4/E=
 		</data>
 		<key>CommonWebViewController.nib</key>
 		<data>
-		EzJrlJ8G1tBiJbDtDVWJsY7wT/A=
+		AMRm8bwhOop9jkmh09yZZpUwUhw=
 		</data>
 		<key>DalCoinPopupView.nib/objects-11.0+.nib</key>
 		<data>
-		vQQZjBgWSs5vLyfrG7XI/If3cGI=
+		ozIWxnzXAfSPe38+uMt+Cxx578M=
 		</data>
 		<key>DalCoinPopupView.nib/runtime.nib</key>
 		<data>
-		mhz+cpzRX8GYFZJLm+gP76GRXTs=
+		yowDKPFnXbimdf/ExGoccr81QUI=
 		</data>
 		<key>ErrorViewController.nib/objects-11.0+.nib</key>
 		<data>
-		nKeOVfuXeETpLFrJw6YRcc9P6aw=
+		KwuoNK8CWGviIzglRHS4nkbePWM=
 		</data>
 		<key>ErrorViewController.nib/runtime.nib</key>
 		<data>
-		JJ6BPabVcOVKELqEDXy5Vnh/Z4E=
+		2ibn+xsVs89cwN7NSRHE4/1tXbY=
 		</data>
 		<key>Headers/TouchadSDK-Swift.h</key>
 		<data>
-		d7+TcQHpJIE17ZgWFNKbFiJtPLI=
+		/DTqgkfstzeo4cv+dIu14YnQAVE=
 		</data>
 		<key>Headers/TouchadSDK.h</key>
 		<data>
@@ -74,51 +74,51 @@
 		</data>
 		<key>Info.plist</key>
 		<data>
-		C06UoXcK0yw45h+lMOhZJXGhFe8=
+		4PenwJqZXOi9rF+iQ6uxBsSVJFw=
 		</data>
 		<key>Modules/TouchadSDK.swiftmodule/arm64-apple-ios.abi.json</key>
 		<data>
-		babDCHk15uJ368S1eI1zmCR+6g8=
+		BR+Dv3P7+zTJb7bt/udxfNT/X5s=
 		</data>
 		<key>Modules/TouchadSDK.swiftmodule/arm64-apple-ios.private.swiftinterface</key>
 		<data>
-		cX3uyTc+lOghv78FmlYWQByO+Bs=
+		l80v5L8nyC2LEXVz2PVIGpkYa/o=
 		</data>
 		<key>Modules/TouchadSDK.swiftmodule/arm64-apple-ios.swiftdoc</key>
 		<data>
-		1ZsglCf5cPXf5sT4N1CUj3EvrWE=
+		5PY75mlaKgiIS5JgeItvj21Nt/8=
 		</data>
 		<key>Modules/TouchadSDK.swiftmodule/arm64-apple-ios.swiftinterface</key>
 		<data>
-		cX3uyTc+lOghv78FmlYWQByO+Bs=
+		l80v5L8nyC2LEXVz2PVIGpkYa/o=
 		</data>
 		<key>Modules/TouchadSDK.swiftmodule/arm64-apple-ios.swiftmodule</key>
 		<data>
-		W3ZK7kJ7TfMxiXvksWn6Hyy0b3c=
+		uhPly0+WJ23ROLwDGSf+oODJuyc=
 		</data>
 		<key>Modules/module.modulemap</key>
 		<data>
-		Zs+R0Wg7ISOH6iRlbmJfCvpEvj4=
+		7tL+zbGlrQVNRF1dCEAJEdiCsrE=
 		</data>
 		<key>PopupWebViewController.nib</key>
 		<data>
-		9MG3SMW0JKBtRaRTRvO6+cJ2JVM=
+		rDzuVibfnoXhAbhcxXjNc+D5M/U=
 		</data>
 		<key>PromptCommonPopupView.nib/objects-11.0+.nib</key>
 		<data>
-		6zNwcJ7aIG3XRnDaBxC3LYuEykA=
+		PIdtbe0nCXam0FRCcbl6j9qQFE8=
 		</data>
 		<key>PromptCommonPopupView.nib/runtime.nib</key>
 		<data>
-		8b4qzTLbGEDtQn8b3ERt7Tz8iJA=
+		lKbr4n9/kO2NB63n/q2stlnGG5k=
 		</data>
 		<key>TermsPopupView.nib/objects-11.0+.nib</key>
 		<data>
-		N74471h1xIIz4343W7tD8GBZi4E=
+		40AUoq68MFSiOgi6JW0h0NyZ9Bo=
 		</data>
 		<key>TermsPopupView.nib/runtime.nib</key>
 		<data>
-		rKGx+eUwmBG/YYv7CLbuhr39mwM=
+		CZ8rUgUSJHiQwbHFil0J1oNl/iQ=
 		</data>
 		<key>sf-ui-display-bold-58646a511e3d9.otf</key>
 		<data>
@@ -139,176 +139,176 @@
 		<dict>
 			<key>hash</key>
 			<data>
-			ey1v/3SIC4akWRqQ2MOGywL6JnY=
+			ryr+5j/yOvJdvve3FoR8P7MB2mo=
 			</data>
 			<key>hash2</key>
 			<data>
-			Rk5bC+tJXBBrCa0BR2OZXNah1QK0C6kSzeEEMzpzPbo=
+			OGIbA062KdyOhhW0fALaXoI7etVtEaMlLGCLZ7hRgec=
 			</data>
 		</dict>
 		<key>BottomAppPushPopupView.nib/objects-11.0+.nib</key>
 		<dict>
 			<key>hash</key>
 			<data>
-			1QomtIUHDUQcbqFpKLjB/csd4dg=
+			v4/7MnjNXrfP5I/hMrceqwDvqZY=
 			</data>
 			<key>hash2</key>
 			<data>
-			E+ooJpMeI93+MwbS1fWg3j0XX/vRX9vOmuwlUVaJOi4=
+			lrcWAh6I6NfcaPUbeUsyJetyPvk+sTszII+Mwg5QqT0=
 			</data>
 		</dict>
 		<key>BottomAppPushPopupView.nib/runtime.nib</key>
 		<dict>
 			<key>hash</key>
 			<data>
-			sQR1NDGGisBIcsjXPl8baIy4Xuc=
+			NnWRePJMc1XNF8FqGldmgLF7tcs=
 			</data>
 			<key>hash2</key>
 			<data>
-			NFBSshsqXDT/6E9jLdpE3lBAgiRaPObsbmLd89jOOCg=
+			JBquPzaldBjp+nP5XtN8xcZjLpQcmsHpB6PnX2StoKU=
 			</data>
 		</dict>
 		<key>BottomPopupView.nib/objects-11.0+.nib</key>
 		<dict>
 			<key>hash</key>
 			<data>
-			G7X5nnlTP7rGZwZDHJqBLAudv3c=
+			bCWUSlvE/0a/WgaA31hVbphWMMg=
 			</data>
 			<key>hash2</key>
 			<data>
-			sbE6MLXvS6ZNqSgydbrmlFwe8xzcnaJMjZoQVLSFWzI=
+			idtroe7BODH6aEERQUuIQrhuX5HnZJ3RZC5Nc4M6A0g=
 			</data>
 		</dict>
 		<key>BottomPopupView.nib/runtime.nib</key>
 		<dict>
 			<key>hash</key>
 			<data>
-			Ff7KnrgiDusGc1/NVb9E+t0D0nQ=
+			DKgU5H/e46+8ARlssfbYZu5qtMc=
 			</data>
 			<key>hash2</key>
 			<data>
-			wwImNtUz3UelQk4Da+4CuFaXOv4ANTOeqcXnV73pU2Y=
+			1tJJ+kPW8wwy28+S+cMJwttzh2K5XdPCNYl1A9hZ9tc=
 			</data>
 		</dict>
 		<key>CardRegistViewController.nib</key>
 		<dict>
 			<key>hash</key>
 			<data>
-			+VEmCdZdFWkRXQ4BvVKIUwfEGLU=
+			dA8iGS0BMq/nJcbfqMT+6PFSPes=
 			</data>
 			<key>hash2</key>
 			<data>
-			mAImsE5aZsUcXzvpznBfiNhGVr8Db5UU/tTfku+UzAE=
+			y79kJQNrbidbCCZRSGvDM/yalTKqf3++ZJOQmBjlfVA=
 			</data>
 		</dict>
 		<key>CommonPickerPopupView.nib/objects-11.0+.nib</key>
 		<dict>
 			<key>hash</key>
 			<data>
-			Papq2kC1QGiBbhPEFSO2OOFdnCg=
+			F30k/5btNFCXT0OEQ3XKj7Nt+R4=
 			</data>
 			<key>hash2</key>
 			<data>
-			h+pUB/uZe5/NVa8Ky5Nwq45FbiUhEf/dfhRsc9IkWzQ=
+			vCmQY4SJ/zjBboUPpfX7yaeYxKfmamwNo7ipZ9tVx1s=
 			</data>
 		</dict>
 		<key>CommonPickerPopupView.nib/runtime.nib</key>
 		<dict>
 			<key>hash</key>
 			<data>
-			wIuFtNGoWRPinV4bxvtv8KGLYm8=
+			wGdhQm4M3ohVOLvQ0DYJz5ouE0E=
 			</data>
 			<key>hash2</key>
 			<data>
-			krotTG5KSi8HpI/pJe58VFDoC1344zaJTQKyPqdUuq8=
+			LpT21fjDNuO3IFOuGXZtsl0ZR+pMB675kRCEbTkwXxA=
 			</data>
 		</dict>
 		<key>CommonPopupView.nib/objects-11.0+.nib</key>
 		<dict>
 			<key>hash</key>
 			<data>
-			/OKdjMW0yMWnPizr6wv1fR8OeG4=
+			W2NK6e/YdKdWOzdF0ODtjIsGcvs=
 			</data>
 			<key>hash2</key>
 			<data>
-			AEc5Gm/mFN74zM7Mm7mBUFXPKncERHPQM6ebyVpfuv8=
+			b0ROjDDTHEGd5S81tKO3p2XaQ1XdDnYhdFAELUVyxHM=
 			</data>
 		</dict>
 		<key>CommonPopupView.nib/runtime.nib</key>
 		<dict>
 			<key>hash</key>
 			<data>
-			suQCGx7mKEx2aF6c3RLkTGPCtMM=
+			7T9RVSdHD3a99Fl9b0ebfqft4/E=
 			</data>
 			<key>hash2</key>
 			<data>
-			Zz1jU3GorZqzXw+0Y15fJO1zX654Ig5NR9auUwpC234=
+			EEH41FARr3/C4n3mfEaA0oYPbCgrDOyZfEt+QkuR8+o=
 			</data>
 		</dict>
 		<key>CommonWebViewController.nib</key>
 		<dict>
 			<key>hash</key>
 			<data>
-			EzJrlJ8G1tBiJbDtDVWJsY7wT/A=
+			AMRm8bwhOop9jkmh09yZZpUwUhw=
 			</data>
 			<key>hash2</key>
 			<data>
-			96XQD8nisWCi6Y0UR4UgPV61Fp6bMTI/J6mcoyFzp3s=
+			+oxQSp7c3rWaa+wndjw4iYNIZ0EkIpvvBEs09DqeFDo=
 			</data>
 		</dict>
 		<key>DalCoinPopupView.nib/objects-11.0+.nib</key>
 		<dict>
 			<key>hash</key>
 			<data>
-			vQQZjBgWSs5vLyfrG7XI/If3cGI=
+			ozIWxnzXAfSPe38+uMt+Cxx578M=
 			</data>
 			<key>hash2</key>
 			<data>
-			gMlKMVeAD8fsdbk3ctCTyRtOEQFPBZw6LSo8N229Jf4=
+			Z8ydJGNrWW9+UcuzL6r2izng/w06frGgxeEsepAG7/s=
 			</data>
 		</dict>
 		<key>DalCoinPopupView.nib/runtime.nib</key>
 		<dict>
 			<key>hash</key>
 			<data>
-			mhz+cpzRX8GYFZJLm+gP76GRXTs=
+			yowDKPFnXbimdf/ExGoccr81QUI=
 			</data>
 			<key>hash2</key>
 			<data>
-			yl4sOpW00eGj3jHiAIh4lnV/qVC5wgj8QywIP9bwKLM=
+			9u4ZDt5VXh3T+bpOMsdZQWuBKGWM0931W85o5ui8N/o=
 			</data>
 		</dict>
 		<key>ErrorViewController.nib/objects-11.0+.nib</key>
 		<dict>
 			<key>hash</key>
 			<data>
-			nKeOVfuXeETpLFrJw6YRcc9P6aw=
+			KwuoNK8CWGviIzglRHS4nkbePWM=
 			</data>
 			<key>hash2</key>
 			<data>
-			cxhO6p28VtkDblaLdv/hnSRb9pnwCqYqRsealZvneu4=
+			1a6BJGzZUmDvZpB4D1ZM5dG0d1L0WT1n7dzqlHnsIG8=
 			</data>
 		</dict>
 		<key>ErrorViewController.nib/runtime.nib</key>
 		<dict>
 			<key>hash</key>
 			<data>
-			JJ6BPabVcOVKELqEDXy5Vnh/Z4E=
+			2ibn+xsVs89cwN7NSRHE4/1tXbY=
 			</data>
 			<key>hash2</key>
 			<data>
-			ZfXjMu6xhjktFScYxad4CbGKeOdQY6utX9dMpcHkdzI=
+			i9voYmuQsR6CSxU24pcQS5TY1GLqw9CxB0iYe6ldIlo=
 			</data>
 		</dict>
 		<key>Headers/TouchadSDK-Swift.h</key>
 		<dict>
 			<key>hash</key>
 			<data>
-			d7+TcQHpJIE17ZgWFNKbFiJtPLI=
+			/DTqgkfstzeo4cv+dIu14YnQAVE=
 			</data>
 			<key>hash2</key>
 			<data>
-			tghf0fsJLjg65aMe24rrDeUKY1h+MimSCLTHZkKeWLU=
+			p2WTN9iUSdfn+GPNu0OXD43M3A1Y80ZD88s693jzizA=
 			</data>
 		</dict>
 		<key>Headers/TouchadSDK.h</key>
@@ -326,121 +326,121 @@
 		<dict>
 			<key>hash</key>
 			<data>
-			babDCHk15uJ368S1eI1zmCR+6g8=
+			BR+Dv3P7+zTJb7bt/udxfNT/X5s=
 			</data>
 			<key>hash2</key>
 			<data>
-			VNbArejHPxQrOOvEpsid22jLtfQflrhpSYcNIHEo2x4=
+			NcFq3x+z3fBPgiN2+So+RFZ69FZ+fBehhyC3ts8YYDc=
 			</data>
 		</dict>
 		<key>Modules/TouchadSDK.swiftmodule/arm64-apple-ios.private.swiftinterface</key>
 		<dict>
 			<key>hash</key>
 			<data>
-			cX3uyTc+lOghv78FmlYWQByO+Bs=
+			l80v5L8nyC2LEXVz2PVIGpkYa/o=
 			</data>
 			<key>hash2</key>
 			<data>
-			xKTMucdTd6tMGCcMY1XP14yHv2woFB8G8wjVPxkIOeo=
+			qbNn1gNAFa2/x4EmL9uNWr96jdmWwLE0PEHk9VyaP8s=
 			</data>
 		</dict>
 		<key>Modules/TouchadSDK.swiftmodule/arm64-apple-ios.swiftdoc</key>
 		<dict>
 			<key>hash</key>
 			<data>
-			1ZsglCf5cPXf5sT4N1CUj3EvrWE=
+			5PY75mlaKgiIS5JgeItvj21Nt/8=
 			</data>
 			<key>hash2</key>
 			<data>
-			RpJ6ShH9YczS1FMIDqhnf38G7+02lqLCuQKvMk0N5K4=
+			xFpJSQsv/AtOGJIbS+Ez8CF/5il1OP8awzRsu2SYmy8=
 			</data>
 		</dict>
 		<key>Modules/TouchadSDK.swiftmodule/arm64-apple-ios.swiftinterface</key>
 		<dict>
 			<key>hash</key>
 			<data>
-			cX3uyTc+lOghv78FmlYWQByO+Bs=
+			l80v5L8nyC2LEXVz2PVIGpkYa/o=
 			</data>
 			<key>hash2</key>
 			<data>
-			xKTMucdTd6tMGCcMY1XP14yHv2woFB8G8wjVPxkIOeo=
+			qbNn1gNAFa2/x4EmL9uNWr96jdmWwLE0PEHk9VyaP8s=
 			</data>
 		</dict>
 		<key>Modules/TouchadSDK.swiftmodule/arm64-apple-ios.swiftmodule</key>
 		<dict>
 			<key>hash</key>
 			<data>
-			W3ZK7kJ7TfMxiXvksWn6Hyy0b3c=
+			uhPly0+WJ23ROLwDGSf+oODJuyc=
 			</data>
 			<key>hash2</key>
 			<data>
-			KQnZqZvy4r6iNUyr+Yznz9dAq6jCPR1nGha3tb3oosU=
+			sl5Yt3bag/74xT9smHe58pWLLWorUm0+jfNxpRAh81s=
 			</data>
 		</dict>
 		<key>Modules/module.modulemap</key>
 		<dict>
 			<key>hash</key>
 			<data>
-			Zs+R0Wg7ISOH6iRlbmJfCvpEvj4=
+			7tL+zbGlrQVNRF1dCEAJEdiCsrE=
 			</data>
 			<key>hash2</key>
 			<data>
-			RPtFwwMQcrWRQ/zztGqkE8AzzARijRlBmLRW2WLOon8=
+			ueANdecpk37VQjh5e9nuJo+UTRNeaUYfGF1Ll+k1UYo=
 			</data>
 		</dict>
 		<key>PopupWebViewController.nib</key>
 		<dict>
 			<key>hash</key>
 			<data>
-			9MG3SMW0JKBtRaRTRvO6+cJ2JVM=
+			rDzuVibfnoXhAbhcxXjNc+D5M/U=
 			</data>
 			<key>hash2</key>
 			<data>
-			grIUyFAlSHF2kXsVkT6GsYsYnyOzwItHmqcBi4f/A4M=
+			kgcpLE31LpEhZVMUslmAzYo03cN1jJoX3N08o0znilE=
 			</data>
 		</dict>
 		<key>PromptCommonPopupView.nib/objects-11.0+.nib</key>
 		<dict>
 			<key>hash</key>
 			<data>
-			6zNwcJ7aIG3XRnDaBxC3LYuEykA=
+			PIdtbe0nCXam0FRCcbl6j9qQFE8=
 			</data>
 			<key>hash2</key>
 			<data>
-			3dwdQmii9/1xcZnTtssh0vayuQrH5FsM4mNZjaJ4Q+M=
+			kSGy+TSR4qHNu/Udi/RwOmakoSQsiuP5Lc1xHGQM1Uo=
 			</data>
 		</dict>
 		<key>PromptCommonPopupView.nib/runtime.nib</key>
 		<dict>
 			<key>hash</key>
 			<data>
-			8b4qzTLbGEDtQn8b3ERt7Tz8iJA=
+			lKbr4n9/kO2NB63n/q2stlnGG5k=
 			</data>
 			<key>hash2</key>
 			<data>
-			xCnpP810wHxJoU7oSaFbYF4sDkYAzF0HwQaYcLGwym0=
+			0DQY1z/J+1q/cwnn0G7gsJDJRcJfbZEV3tNrmAeKwyQ=
 			</data>
 		</dict>
 		<key>TermsPopupView.nib/objects-11.0+.nib</key>
 		<dict>
 			<key>hash</key>
 			<data>
-			N74471h1xIIz4343W7tD8GBZi4E=
+			40AUoq68MFSiOgi6JW0h0NyZ9Bo=
 			</data>
 			<key>hash2</key>
 			<data>
-			l0beSED6IszdPT0O8XwzJL808JsLa+OOdW0HGTcxHAs=
+			x7FqLOgLvvmqlv6/6hFXhR64pxqIM2ol7oEIJE5QVJ8=
 			</data>
 		</dict>
 		<key>TermsPopupView.nib/runtime.nib</key>
 		<dict>
 			<key>hash</key>
 			<data>
-			rKGx+eUwmBG/YYv7CLbuhr39mwM=
+			CZ8rUgUSJHiQwbHFil0J1oNl/iQ=
 			</data>
 			<key>hash2</key>
 			<data>
-			jVEmHY47X3WHGhR0IJ2atneXHUbBjXrPmKrZ7D7yMRY=
+			fOGDPDeUqQNiJGykHYTkDAKrjrbuCVtEaVs/qMeKmgI=
 			</data>
 		</dict>
 		<key>sf-ui-display-bold-58646a511e3d9.otf</key>
